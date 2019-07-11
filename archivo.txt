@@ -1,1 +1,5 @@
 Un archivo para git
+
+1.- Esto es el primer cambio del ejercicio
+
+2.- Esto es el segundo cambio del ejercicio
